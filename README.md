@@ -1,4 +1,4 @@
-# ISMLL - University of Hildesheim
+# .github
 
 The Information Systems and Machine Learning Lab (ISMLL) is devoted to research in machine learning and data mining. Our main expertise is the development of machine learning models and respective learning and inference algorithms for supervised problems with complex data, i.e., data that cannot be easily described as a set of instances with a fixed set of attributes. Instead of developing isolated application-specific solutions, we aim at mapping application problems to abstract problem classes, formally described by some common characteristics, and then generically tackle these problem classes. Especially, we work in the following areas:
 
