@@ -1,7 +1,6 @@
-# ISMLL -University of Hildesheim
-
 The Information Systems and Machine Learning Lab (ISMLL) is devoted to research in machine learning and data mining. Our main expertise is the development of machine learning models and respective learning and inference algorithms for supervised problems with complex data, i.e., data that cannot be easily described as a set of instances with a fixed set of attributes. Instead of developing isolated application-specific solutions, we aim at mapping application problems to abstract problem classes, formally described by some common characteristics, and then generically tackle these problem classes. Especially, we work in the following areas:
 
-1. **Factorization methods** address problems with categorical variables with many levels (as e.g., in recommender systems) by associating latent features with every level. Interactions between these variables then can be captured in models by interactions between the latent features. Two-way interactions lead to matrix factorization models, higher interactions to tensor factorization models.
-2. **Relational classification** aims to improve classifiers by relational covariate information, i.e., further relations besides the target relation. For example, if publications should be classified by their topic, the author, venue and citation relations will contain crucial information.
-3. **Time series classification** is the task to assign time-variant data to predefined classes, e.g., to recognize if sensor data such as EEG indicates an healthy or an ill condition of a patient. Non-aligned time series can be utilized by different means such as kernel methods or motif extraction.
+1. **Recommender Systems** and more generally models for multi-relational data.
+2. **Time Series Forecasting** as well as other tasks for time series such as classification and imputation.
+3. **Hyperparameter Optimization**, esp. in a meta learning scenario, across different datasets.
+4. **Learning to Optimize**, i.e., using machine learning methods to control discrete optimization processes, e.g., for Vehicle Routing and Scheduling.
